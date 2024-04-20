@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/alextee3k">Student |</a> <a href="https://www.linkedin.com/in/alejandrothompson/">Cybersecurity | AI</a> 
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/alextee3k">Student |</a> <a href="https://www.linkedin.com/in/alejandrorthompson/">Cybersecurity | AI</a> 
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
